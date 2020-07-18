@@ -1,13 +1,13 @@
 ## 1. Introdução
 
-## 1.1 Equipe
+### 1.1 Equipe
 
 Integrantes do grupo:
 
 Aroldo Vargas: aroldovneto@gmail.com<br>
 Emanuel Medeiros: 
 
-## 1.2 Objetivo
+### 1.2 Objetivo
 
 Objetivo geral do trabalho é implementar um Data Warehouse utilizando a modelagem dimensional, a partir de banco de dados transacional existente. O banco de dados MySql utilizado está disponível [aqui](https://github.com/jpwhite3/northwind-MySQL). O trabalho será utilizado como avaliação na disciplina de Inteligência de Negócios, do curso de Sistemas de Informação do IFES. 
 
