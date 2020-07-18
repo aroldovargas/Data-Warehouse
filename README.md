@@ -13,7 +13,7 @@ Objetivo geral do trabalho é implementar um Data Warehouse utilizando a modelag
 
 ## 2. Modelagem
 
-### 2.1 Instalação Python² 
+### 2.1 Preparando o Ambiente 
 
 ### 2.2 Projeto Dimensional
 
