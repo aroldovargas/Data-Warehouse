@@ -10,5 +10,5 @@ CREATE TABLE Dim_Data(
 	month_name VARCHAR(9),
 	quarter INTEGER,
 	year SMALLINT,
-	primary key(date_key)
+	PRIMARY KEY(date_key)
 )
