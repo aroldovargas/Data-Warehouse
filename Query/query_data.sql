@@ -1,4 +1,4 @@
-CREATE TABLE IF NOT EXISTS Dim_Data(
+CREATE TABLE IF NOT EXISTS `stockcontrol`.`DIM_DATA`(
 	date_key SMALLINT NOT NULL,
 	full_date DATE,
 	day_of_week INTEGER,
