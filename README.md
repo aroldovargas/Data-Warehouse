@@ -52,6 +52,8 @@ Segundo Moreira (2002), é necessário saber quanto a empresa planeja vender de 
 
 Em alguns aspectos, a modelagem dimensional mostra-se mais simples, mais expressiva e fácil de compreender do que a modelagem relacional. Mas sendo um conceito relativamente novo e por hora, não possuindo uma definição mais firme, é preciso que sejam apresentadas sua metodologia, técnica e algumas pistas sobre seu uso. O conceito básico da modelagem dimensional apoia a sua técnica na visualização dos modelos de dados como conjuntos de medidas que são descritos pelos aspectos comuns dos negócios. Isto é um dos lados especialmente úteis nos processos de sumarização e re-arranjo, bem como na apresentação das visões dos dados que suportam as funções de análise. A modelagem dimensional, portanto, dá enfoque a dados numéricos, tais como valores, contas, pesos, balanços e ocorrências.
 
+![Alt text](https://github.com/aroldovargas/Data-Warehouse/blob/master/Modelos/Modelo%20Dimensional.png)
+
 ### 2.4 Base de Dados
 
 ## 3. ETL
